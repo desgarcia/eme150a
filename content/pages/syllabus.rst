@@ -94,7 +94,7 @@ times, please find an available time on Jason's schedule_ and email him with
 the request.
 
 Destiny will hold office hours on Wednesdays from 1-2PM and Fridays from 12-1PM
-in a TBA room.
+in a Bainer 2103.
 
 .. _schedule: http://www.moorepants.info/work-calendar.html
 
